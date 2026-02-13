@@ -1,0 +1,37 @@
+[
+  {"id": 1, "name": "Coldplay Live Concert", "category": "music", "date": "2026-03-15", "venue": "Mumbai Stadium", "base_price": 3500},
+  {"id": 2, "name": "Stand-up Comedy Night", "category": "comedy", "date": "2026-03-20", "venue": "Pune Arena", "base_price": 1200},
+  {"id": 3, "name": "AI & Tech Conference", "category": "conference", "date": "2026-04-02", "venue": "Bangalore Convention Center", "base_price": 5000},
+  {"id": 4, "name": "IPL Match: Mumbai vs Chennai", "category": "sports", "date": "2026-03-25", "venue": "Delhi Stadium", "base_price": 2000},
+  {"id": 5, "name": "Broadway Theatre Show", "category": "theatre", "date": "2026-04-10", "venue": "NCPA Mumbai", "base_price": 1800},
+
+  {"id": 6, "name": "Arijit Singh Live", "category": "music", "date": "2026-03-28", "venue": "Kolkata Grounds", "base_price": 2500},
+  {"id": 7, "name": "EDM Night Festival", "category": "music", "date": "2026-04-18", "venue": "Goa Beach Arena", "base_price": 4000},
+  {"id": 8, "name": "Zakir Khan Live", "category": "comedy", "date": "2026-04-05", "venue": "Hyderabad Auditorium", "base_price": 1500},
+  {"id": 9, "name": "Corporate Leadership Summit", "category": "conference", "date": "2026-05-12", "venue": "Delhi Expo Center", "base_price": 4200},
+  {"id": 10, "name": "Startup Pitch Fest", "category": "conference", "date": "2026-03-30", "venue": "Mumbai Business Hub", "base_price": 900},
+
+  {"id": 11, "name": "India vs Australia T20", "category": "sports", "date": "2026-04-22", "venue": "Wankhede Stadium", "base_price": 3200},
+  {"id": 12, "name": "Pro Kabaddi League", "category": "sports", "date": "2026-03-18", "venue": "Jaipur Indoor Stadium", "base_price": 1100},
+  {"id": 13, "name": "Classical Music Evening", "category": "music", "date": "2026-04-08", "venue": "Chennai Music Hall", "base_price": 800},
+  {"id": 14, "name": "Street Food Carnival", "category": "festival", "date": "2026-03-22", "venue": "Ahmedabad Riverfront", "base_price": 300},
+  {"id": 15, "name": "Literature & Book Fair", "category": "exhibition", "date": "2026-04-02", "venue": "Jaipur Grounds", "base_price": 200},
+
+  {"id": 16, "name": "Photography Expo", "category": "exhibition", "date": "2026-05-05", "venue": "Bangalore Art Center", "base_price": 450},
+  {"id": 17, "name": "Gaming Championship", "category": "esports", "date": "2026-04-25", "venue": "Hyderabad Tech Park", "base_price": 2200},
+  {"id": 18, "name": "College Cultural Fest", "category": "festival", "date": "2026-03-14", "venue": "Delhi University", "base_price": 150},
+  {"id": 19, "name": "Motivational Seminar", "category": "seminar", "date": "2026-04-16", "venue": "Pune Convention Hall", "base_price": 700},
+  {"id": 20, "name": "Yoga & Wellness Retreat", "category": "wellness", "date": "2026-05-20", "venue": "Rishikesh Resort", "base_price": 5200},
+
+  {"id": 21, "name": "Bollywood Dance Workshop", "category": "workshop", "date": "2026-03-19", "venue": "Mumbai Studio", "base_price": 950},
+  {"id": 22, "name": "Finance & Investment Bootcamp", "category": "workshop", "date": "2026-04-12", "venue": "Delhi Finance Center", "base_price": 3100},
+  {"id": 23, "name": "Rock Band Live", "category": "music", "date": "2026-04-28", "venue": "Bangalore Arena", "base_price": 1700},
+  {"id": 24, "name": "Improv Comedy Show", "category": "comedy", "date": "2026-05-02", "venue": "Chandigarh Theatre", "base_price": 600},
+  {"id": 25, "name": "Tech Hackathon", "category": "tech", "date": "2026-03-26", "venue": "IIT Bombay", "base_price": 400},
+
+  {"id": 26, "name": "Food & Music Festival", "category": "festival", "date": "2026-04-14", "venue": "Goa Grounds", "base_price": 2200},
+  {"id": 27, "name": "Art & Craft Exhibition", "category": "exhibition", "date": "2026-04-09", "venue": "Kochi Art Hall", "base_price": 350},
+  {"id": 28, "name": "Stand-up Open Mic", "category": "comedy", "date": "2026-03-21", "venue": "Indore Cafe Arena", "base_price": 250},
+  {"id": 29, "name": "National Chess Tournament", "category": "sports", "date": "2026-05-08", "venue": "Chennai Sports Complex", "base_price": 500},
+  {"id": 30, "name": "Fashion Week", "category": "fashion", "date": "2026-04-19", "venue": "Delhi Runway Center", "base_price": 4800}
+]

@@ -1,75 +1,83 @@
-#  Event-Ticketing-Chatbot (EventGPT)
+# Event-Ticketing-Chatbot (EventGPT)
 
 EventGPT is an **AI-powered ticket booking and event assistance application** built using **Streamlit**, **FastAPI**, and the **Groq LLM API**.
 
 The system simulates a modern ticketing platform featuring:
 
-- Intelligent event recommendations  
-- Conversational AI support  
-- Dynamic pricing  
-- Smart seat selection  
-- Group booking optimization  
+- Intelligent event recommendations
+- Conversational AI support
+- Dynamic pricing
+- Smart seat selection
+- Group booking optimization
 
 ---
 
-##  Key Features
+## Key Features
 
-###  Ticket Booking
-- Event selection  
-- Multi-seat booking  
-- Real-time pricing calculation  
-- Demand-based dynamic pricing  
+### Ticket Booking
 
-###  Seat Selection
-- Displays available seats  
-- Prevents double booking  
-- Interactive seat choice  
+- Event selection
+- Multi-seat booking
+- Real-time pricing calculation
+- Demand-based dynamic pricing
 
-###  Smart Group Booking
-- Automatically finds contiguous seats  
-- Optimized seating for groups  
+### Seat Selection
 
-###  AI Event Recommendations
-- Suggests events based on user interest  
+- Displays available seats
+- Prevents double booking
+- Interactive seat choice
+
+### Smart Group Booking
+
+- Automatically finds contiguous seats
+- Optimized seating for groups
+
+### AI Event Recommendations
+
+- Suggests events based on user interest
 - Supports categories like:
-  - Music  
-  - Comedy  
-  - Tech  
-  - Sports  
-  - Festivals  
-  - Workshops  
-  - Business Events  
+  - Music
+  - Comedy
+  - Tech
+  - Sports
+  - Festivals
+  - Workshops
+  - Business Events
 
-###  AI Chatbot (Groq Powered)
-- Answers event-related queries  
-- Context-aware responses  
-- Natural language interaction  
+### AI Chatbot (Groq Powered)
 
-###  Ticket Transfer
-- Simulated ticket ownership transfer  
+- Answers event-related queries
+- Context-aware responses
+- Natural language interaction
 
-###  Event Reminder
-- Reminder scheduling interface  
+### Ticket Transfer
 
-###  Dynamic Pricing
-- Demand factor simulation  
-- Seat-based price scaling  
-- Group discount logic  
+- Simulated ticket ownership transfer
+
+### Event Reminder
+
+- Reminder scheduling interface
+
+### Dynamic Pricing
+
+- Demand factor simulation
+- Seat-based price scaling
+- Group discount logic
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Frontend:** Streamlit  
 **Backend:** FastAPI  
 **AI Engine:** Groq LLM API  
 **Language:** Python  
 **Data Storage:** JSON Dataset  
-**Seat Logic:** Custom SeatManager  
+**Seat Logic:** Custom SeatManager
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ## Project Structure
 
@@ -94,6 +102,7 @@ EventGPT/
 ```
 
 ---
+
 ```
 ## ⚙ Setup Instructions
 
@@ -119,6 +128,7 @@ streamlit run streamlit_app.py
 
 ---
 ```
+
 ## AI Capabilities
 
 EventGPT leverages the Groq LLM API to deliver:
@@ -136,24 +146,26 @@ EventGPT leverages the Groq LLM API to deliver:
 
 ## Simulated Benefits
 
-- Faster ticket discovery  
-- Improved seat selection experience  
-- Smarter group booking  
-- Enhanced AI-driven interaction  
-- Reduced manual search effort  
+- Faster ticket discovery
+- Improved seat selection experience
+- Smarter group booking
+- Enhanced AI-driven interaction
+- Reduced manual search effort
 
 ---
 
 ## Future Enhancements
 
-- Real Eventbrite / Ticketmaster API integration  
-- Persistent database (PostgreSQL / MongoDB)  
-- Payment gateway integration  
-- User authentication and profiles  
-- Seat heatmap visualization  
-- Admin dashboard  
-- Analytics and reporting  
+- Real Eventbrite / Ticketmaster API integration
+- Persistent database (PostgreSQL / MongoDB)
+- Payment gateway integration
+- User authentication and profiles
+- Seat heatmap visualization
+- Admin dashboard
+- Analytics and reporting
 
 ---
+
 ## Developed By
+
 Samruddhi Kadre
